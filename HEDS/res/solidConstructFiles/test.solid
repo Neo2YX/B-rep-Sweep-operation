@@ -1,0 +1,15 @@
+3 5 4 4 //one outer loop with 5 vertex and 2 inner loop with 4 vertex each
+0 0.5 -2  //first loop - first vertex
+-1 0.5  -1
+-1 0.5 0
+1 0.5 0
+1 0.5 -1  //first loop - last vertex
+-0.8 0.5 -1 //second loop - first vertex
+-0.2 0.5 -1
+-0.2 0.5 -0.5
+-0.8 0.5 -0.5 //second loop - last vertex
+0.2 0.5 -0.6 //third loop - first vertex
+0.8 0.5 -0.6
+0.8 0.5 -0.1
+0.2 0.5 -0.1 //third loop - last vertex
+0 -1 0 // sweep vector
